@@ -1,16 +1,6 @@
-# todo_app
+# Basic Flutter To Do App Todolender
 
-A new Flutter project.
+**Todolender** is a todo project prepared with Flutter and used MVVM design pattern and Provider state management method. In this project I used [google_fonts 1.1.2](https://pub.dev/packages/google_fonts) and [table_calendar 2.3.3](https://pub.dev/packages/table_calendar) packages. Also, I included the [CustomSlider](https://github.com/hakanbakacak/flutter-custom-page-slider) widget that I prepared before.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+<img src="https://raw.githubusercontent.com/hakanbakacak/todolender/master/ss/homePage.PNG" height="480px">
