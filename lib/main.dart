@@ -17,8 +17,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryTextTheme: TextTheme(
           bodyText1: GoogleFonts.montserrat(fontWeight: FontWeight.w300, fontStyle: FontStyle.italic),
-          headline4: GoogleFonts.montserrat(fontWeight: FontWeight.w500, color: Colors.black)
+          headline4: GoogleFonts.montserrat(fontWeight: FontWeight.w500, color: Colors.black),
         ),
+        primaryColor: Color(0xffc8dbfa),
+        accentColor: Color(0xffc8fae7),
+        focusColor: Color(0xfffacec8),
         primarySwatch: Colors.blue,
       ),
       home: ChangeNotifierProvider(
