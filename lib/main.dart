@@ -16,8 +16,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         primaryTextTheme: TextTheme(
-          bodyText1: GoogleFonts.montserrat(fontWeight: FontWeight.w300, fontStyle: FontStyle.italic),
+          bodyText1: GoogleFonts.montserrat(fontWeight: FontWeight.w400, fontStyle: FontStyle.italic),
           headline4: GoogleFonts.montserrat(fontWeight: FontWeight.w500, color: Colors.black),
+          headline6: GoogleFonts.montserrat(fontWeight: FontWeight.w400, color: Colors.black)
         ),
         primaryColor: Color(0xffc8dbfa),
         accentColor: Color(0xffc8fae7),
